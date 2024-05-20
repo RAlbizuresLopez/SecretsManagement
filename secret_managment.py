@@ -1,5 +1,5 @@
 from dotenv import set_key, get_key
-from Github_secrets import Github
+from .github_secrets import Github
 import datetime
 import os
 
